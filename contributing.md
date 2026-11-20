@@ -199,4 +199,4 @@ Use the button in the Quick Start section.
 
 ---
 
-*VRChat · Updated 2026-11-14 · Shared under the MIT License*
+*VRChat · Updated 2026-11-20 · Shared under the MIT License*
